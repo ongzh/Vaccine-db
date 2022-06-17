@@ -1,2 +1,2 @@
-# vaccine-db
-vaccine distribution in java, db2
+# Vaccine-db
+Database for vaccine distribution in java, jdbc, db2
